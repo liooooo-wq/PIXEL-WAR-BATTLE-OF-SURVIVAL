@@ -1,0 +1,6 @@
+{
+  "name": "PIXEL WAR: BATTLE OF SURVIVAL",
+  "description": "Game perang 2D Pixel Art retro arcade dengan mode Single Player & Two Player, 10 level menantang, Shop senjata & upgrade, serta pertempuran Boss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
